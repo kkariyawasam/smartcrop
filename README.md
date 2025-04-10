@@ -9,9 +9,6 @@ The application integrates multiple AI models and an ensemble approach to sugges
 ## UI Preview
 <img width="463" alt="image" src="https://github.com/user-attachments/assets/1b332167-9808-439f-a152-c2227259b0dd" />
 <img width="459" alt="image" src="https://github.com/user-attachments/assets/36ada80c-9f4d-4362-b856-d9cda366c567" />
-<img width="538" alt="image" src="https://github.com/user-attachments/assets/3c048b62-bd98-41fa-8e3c-57c1401d4a85" />
-
-
 
 ## Key Features
 
