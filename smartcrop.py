@@ -12,7 +12,7 @@ from sklearn.model_selection import train_test_split
 from collections import Counter
 import gradio as gr
 
-# === Step 2: Load Data and Setup Embeddings (Optional: You can skip rerunning this repeatedly) ===
+# === Step 2: Load Data and Setup Embeddings ===
 df = pd.read_csv("data/soil_climate_data.csv").head(10)
 df["combined"] = df["soil_description"] + ". " + df["climate_notes"]
 model = SentenceTransformer("paraphrase-MiniLM-L3-v2")
